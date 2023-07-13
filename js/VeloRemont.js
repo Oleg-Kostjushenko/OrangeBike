@@ -109,3 +109,39 @@ $('.list11').click(function () {
     }
     vipadMenu11 = !vipadMenu11
 })
+let vipadMenu12 = false
+$('.list12').click(function () {
+    if (!vipadMenu12) {
+        $(".li12").slideDown()
+    } else {
+        $(".li12").slideUp()
+    }
+    vipadMenu12 = !vipadMenu12
+})
+let vipadMenu13 = false
+$('.list13').click(function () {
+    if (!vipadMenu13) {
+        $(".li13").slideDown()
+    } else {
+        $(".li13").slideUp()
+    }
+    vipadMenu13 = !vipadMenu13
+})
+let vipadMenu14 = false
+$('.list14').click(function () {
+    if (!vipadMenu14) {
+        $(".li14").slideDown()
+    } else {
+        $(".li14").slideUp()
+    }
+    vipadMenu14 = !vipadMenu14
+})
+let vipadMenu15 = false
+$('.list15').click(function () {
+    if (!vipadMenu15) {
+        $(".li15").slideDown()
+    } else {
+        $(".li15").slideUp()
+    }
+    vipadMenu15 = !vipadMenu15
+}) 

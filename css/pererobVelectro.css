@@ -1,0 +1,11 @@
+header {
+    height: 500px;
+    background: url(../img/pererobBG.jpg) center;
+}
+
+.utochnennya{
+    text-align: center;
+    margin: 40px;
+    font-size: 40px;
+    font-weight: bold;
+}
